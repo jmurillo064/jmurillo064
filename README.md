@@ -112,7 +112,7 @@ Mi filosofía: *"El código, como el fútbol, es un deporte de equipo. La colabo
 ## 📊 Actividad en Tiempo Real
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmurillo064&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -134,10 +134,10 @@ Mi filosofía: *"El código, como el fútbol, es un deporte de equipo. La colabo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmurillo064/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjmurillo064@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jmurillo064)
 
 </div>
 
