@@ -63,17 +63,17 @@ Mi filosofía: *"El código, como el fútbol, es un deporte de equipo. La colabo
 ### 🥇 **Champions League Project**
 🔧 **Formación**: Java 17 + Spring Boot + PostgreSQL + Angular  
 ⚽ Un sistema completo que marcó gol en el último minuto  
-📋 [Ver Jugada](https://github.com/TU_USUARIO/proyecto1)
+📋 [Ver Jugada](https://github.com/jmurillo064/proyecto1)
 
 ### 🥈 **Copa del Rey Backend**
 🔧 **Formación**: Java 11 + MongoDB + Spring Boot  
 ⚽ API REST que nunca falla un pase  
-📋 [Ver Jugada](https://github.com/TU_USUARIO/proyecto2)
+📋 [Ver Jugada](https://github.com/jmurillo064/proyecto2)
 
 ### 🥉 **Liga Frontend**
 🔧 **Formación**: Angular + TypeScript  
 ⚽ Interfaz que driblea la complejidad  
-📋 [Ver Jugada](https://github.com/TU_USUARIO/proyecto3)
+📋 [Ver Jugada](https://github.com/jmurillo064/proyecto3)
 
 ---
 
