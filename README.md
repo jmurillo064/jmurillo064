@@ -1,7 +1,9 @@
 # ⚽ ¡Bienvenido al Campo de Juego de un Desarrollador! 🏟️
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=⚽+Desarrollador+Full+Stack;🏆+Especialista+en+Java+%26+Spring+Boot;🥅+Creador+de+Experiencias+Digitales;⚡+Apasionado+por+el+Código+y+el+Fútbol&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <h2>⚽ Desarrollador Full Stack 🏆</h2>
+  <h3>Especialista en Java & Spring Boot | Creador de Experiencias Digitales</h3>
+  <h4>🥅 Apasionado por el Código y el Fútbol ⚡</h4>
 </div>
 
 ---
