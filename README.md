@@ -154,7 +154,7 @@ Mi filosofía: *"El código, como el fútbol, es un deporte de equipo. La colabo
 ## 📈 Contador de Hinchas
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitantes%20al%20Estadio&color=00ff00&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jmurillo064&label=Visitantes%20al%20Estadio&color=00ff00&style=flat-square" alt="Profile views" />
 </div>
 
 ---
