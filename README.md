@@ -8,7 +8,7 @@
   <p>
     <img src="https://img.shields.io/badge/🥅-En%20el%20Campo-brightgreen?style=for-the-badge" alt="En el Campo" />
     <img src="https://img.shields.io/badge/⚽-Programando-success?style=for-the-badge" alt="Programando" />
-    <img src="https://img.shields.io/badge/🏆-Disponible%20para%20Fichar-yellow?style=for-the-badge" alt="Disponible" />
+    <img src="https://img.shields.io/badge/🏆-Fichado-white?style=for-the-badge" alt="Fichado" />
   </p>
 </div>
 
