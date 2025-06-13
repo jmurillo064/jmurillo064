@@ -1,9 +1,15 @@
 # ⚽ ¡Bienvenido al Campo de Juego de un Desarrollador! 🏟️
 
 <div align="center">
-  <h2>⚽ Desarrollador Full Stack 🏆</h2>
-  <h3>Especialista en Java & Spring Boot | Creador de Experiencias Digitales</h3>
-  <h4>🥅 Apasionado por el Código y el Fútbol ⚡</h4>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header&text=⚽%20Desarrollador%20Full%20Stack%20🏆&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Especialista+en+Java+y+Spring+Boot;Creador+de+Experiencias+Digitales;Apasionado+por+el+Codigo+y+el+Futbol;Siempre+en+busca+del+gol+perfecto&center=true&width=500&height=50&font=Fira%20Code&color=00FF00&vCenter=true&pause=1000&duration=3000" alt="Typing Animation" />
+  </h3>
+  <p>
+    <img src="https://img.shields.io/badge/🥅-En%20el%20Campo-brightgreen?style=for-the-badge" alt="En el Campo" />
+    <img src="https://img.shields.io/badge/⚽-Programando-success?style=for-the-badge" alt="Programando" />
+    <img src="https://img.shields.io/badge/🏆-Disponible%20para%20Fichar-yellow?style=for-the-badge" alt="Disponible" />
+  </p>
 </div>
 
 ---
