@@ -42,12 +42,12 @@ Mi filosofía: *"El código, como el fútbol, es un deporte de equipo. La colabo
 ## 🏆 Mis Estadísticas de Temporada
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=radical&title_color=00ff00&text_color=ffffff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmurillo064&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmurillo064&layout=compact&langs_count=7&theme=radical&title_color=00ff00&text_color=ffffff&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&background=0d1117" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmurillo064&theme=radical&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&background=0d1117" alt="GitHub Streak Stats" />
 </div>
 
 ### 📈 **Mis Métricas del Campo**
