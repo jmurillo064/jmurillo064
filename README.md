@@ -27,7 +27,7 @@ Mi filosofía: *"El código, como el fútbol, es un deporte de equipo. La colabo
 ### 🛡️ **Defensa (Backend Sólido)**
 ```
 🥅 Portero: Spring Boot Framework
-🛡️ Defensas: Java 8, 11, 17
+🛡️ Defensas: Java 8, 11, 17, 21
 📚 Libero: JavaDoc (Documentación)
 ```
 
